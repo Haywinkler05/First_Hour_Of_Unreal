@@ -19,3 +19,5 @@ https://dev.epicgames.com/documentation/unreal-engine/first-hour-in-unreal-engin
 Demonstrating the flashlight
 <img width="1174" height="633" alt="image" src="https://github.com/user-attachments/assets/6006ecb2-f3b2-4fe1-b9f3-5f6a871a4dd2" />
 Coin with Gold Material
+<img width="1130" height="480" alt="image" src="https://github.com/user-attachments/assets/5eb97e97-45bb-419a-9ba6-2bbb4fd4fbe6" />
+Visual Scripting for Collecting Coins and Printing Count
