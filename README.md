@@ -21,3 +21,6 @@ Demonstrating the flashlight
 Coin with Gold Material
 <img width="1130" height="480" alt="image" src="https://github.com/user-attachments/assets/5eb97e97-45bb-419a-9ba6-2bbb4fd4fbe6" />
 Visual Scripting for Collecting Coins and Printing Count
+<img width="939" height="324" alt="image" src="https://github.com/user-attachments/assets/6a0b69b0-2c82-46c1-bad1-b933c4380bd1" />
+
+Visual Scripting for Collecting, destorying coins, and then pausing once we reach our max # of coins
