@@ -6,8 +6,7 @@
 - Make a relatively small game to demo
 
 ## Tutorial 
-For this project I am following the First Hour in Unreal Engine on the official Unreal Documentation:
-https://dev.epicgames.com/documentation/unreal-engine/first-hour-in-unreal-engine
+For this project I am following the First Hour in Unreal Engine on the official [Unreal Documentation](https://dev.epicgames.com/documentation/unreal-engine/first-hour-in-unreal-engine)
 
 ## Future Goals
 - Follow the Beginners Guide to Unreal Engine
